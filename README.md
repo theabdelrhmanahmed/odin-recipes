@@ -1,3 +1,13 @@
 # odin-recipes
-This is a description of my first project 
-where I'm going to build a website for some recipes
+# Odin Recipes
+
+This is my first project from The Odin Project.
+
+The website contains multiple recipe pages created using basic HTML.
+It demonstrates:
+
+- HTML structure
+- links between pages
+- images
+- lists
+- Git and GitHub workflow
