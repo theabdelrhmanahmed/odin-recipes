@@ -1,0 +1,19 @@
+body{
+    background-color:#e89b72;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 60px;
+    margin-bottom: 5px;
+    text-align:center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.recipes{
+    font-weight: 700;
+    margin: 50px;
+    font-size: 24px;
+}
